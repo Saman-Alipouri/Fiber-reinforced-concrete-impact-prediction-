@@ -1,4 +1,4 @@
-![Banner](images/banner.png)
+
 # Fibercrete Impact Resistance Prediction
 
 This project uses machine learning to predict the **impact resistance** of fiber-reinforced concrete containing **crumb rubber particles**. The predictions focus on impact energy at the **first crack (FCU)** and **ultimate failure (URU)** based on laboratory testing data.
